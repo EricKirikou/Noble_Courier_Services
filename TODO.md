@@ -4,7 +4,8 @@
 
 ## Responsive identity, navigation and core site shell
 - [x] Create a clean, modern and memorable visual identity with a minimalistic layout, generous white space, premium corporate appearance, strong typography and clear visual hierarchy, professional logistics-inspired graphics, subtle animations and smooth transitions, and a consistent professional courier/logistics palette.
-- [ ] Make the website fully responsive on mobile, tablet and desktop. Avoid excessive gradients, unnecessary shadows and generic AI-looking designs. Make it feel like a trustworthy Ghanaian courier-company concept without inventing official registration details, addresses, awards, testimonials, company history, founders, certifications or verified operational claims.
+- [x] Make the website fully responsive on mobile, tablet and desktop. Avoid excessive gradients, unnecessary shadows and generic AI-looking designs. Make it feel like a trustworthy Ghanaian courier-company concept without inventing official registration details, addresses, awards, testimonials, company history, founders, certifications or verified operational claims.
+- [ ] Use realistic delivery, warehouse, packaging and transportation imagery; the custom homepage hero image has been requested and its managed-storage URL is wired into the page, but image generation is still processing.
 - [x] Ensure all navigation works, major buttons lead to a functioning destination or action, and there are no empty sections, broken links or unfinished features. Use maintainable components, realistic loading states, success messages and validation.
 - [x] Clearly identify the website and all operational examples as a demonstration using dummy/sample information; never imply that demo authentication is production security or that sample operations are verified live company services.
 
