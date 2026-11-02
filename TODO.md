@@ -10,7 +10,8 @@
 
 ## Homepage and visitor-facing information pages
 - [x] Provide navigation for Home, About Us, Our Services, Track Shipment, Business Solutions, Contact, Client Login and Get a Quote.
-- [x] Homepage hero must use headline “Your Deliveries. Our Priority.” and supporting text “Reliable courier and logistics solutions designed to keep your business moving. From urgent parcels to business deliveries, Noble Express makes sending and receiving easier.” Include Book a Delivery and Track a Shipment buttons, an attractive delivery-themed visual, and a prominent shipment tracking field.
+- [x] Homepage hero must use headline “Your Deliveries. Our Priority.” and supporting text “Reliable courier and logistics solutions designed to keep your business moving. From urgent parcels to business deliveries, Noble Express makes sending and receiving easier.” Include Book a Delivery and Track a Shipment buttons and a prominent shipment tracking field.
+- [ ] Include an attractive delivery-themed homepage visual. The generated hero image is being prepared in managed storage and is referenced through its reserved URL.
 - [x] Homepage trust section must show Reliable Deliveries, Real-Time Shipment Updates and Business Delivery Solutions, without fabricated customer counts or delivery statistics.
 - [x] About Us must professionally introduce the importance of dependable courier services, efficient delivery operations and customer satisfaction, without inventing company history, founders, certifications or operational locations.
 - [x] Contact must include a contact form, phone number placeholder, email placeholder, office address placeholder, WhatsApp contact button and Google Maps integration placeholder. Do not fabricate company contact details.

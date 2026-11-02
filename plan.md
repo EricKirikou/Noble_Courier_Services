@@ -32,12 +32,11 @@ The brief establishes a premium, spacious, minimal logistics aesthetic but leave
 - `client/src/App.tsx`: page-route declarations and client/admin route guards.
 - `client/src/pages/`: separate Home, About, Services, Business Solutions, Tracking, Booking/Quote, Contact, Login, Client Dashboard, Admin Login, Admin Dashboard, Privacy, Terms and NotFound pages.
 - `client/src/components/`: shared site header/footer, brand mark, form controls, status/timeline components, reusable service and dashboard components.
-- `client/src/lib/demo-data.ts`: typed sample shipments, customers, service options, inventory and operational records; demo-only defaults.
-- `client/src/lib/demo-storage.ts`: typed browser-storage load/save helpers and state updates for demo session, bookings and inventory.
+- `client/src/lib/demo-data.ts`: typed sample shipments, customers, inventory and operational records, together with browser-storage load/save helpers for demo session, bookings and inventory.
 - `client/src/index.css`: design tokens, responsive foundations, shared visual patterns, focus/reduced-motion rules.
-- `client/public/`: generated homepage hero image, favicon/static assets and `manus-routes.json`.
+- `client/public/`: project-owned brand mark/favicon and `manus-routes.json`; the generated hero artwork is referenced directly from its reserved managed-storage URL.
 - `client/index.html`: page title, description and font loading metadata.
 
 ## Build workflow
 
-After approval, translate the brief into outcome-based project `TODO.md` criteria, then implement the shared design system and the priority visitor journeys before the dashboard modules. Generate and install the planned hero artwork in the project before using it in the UI. Use host-managed TypeScript diagnostics already registered for this project, run the starter's type check and static production build, inspect route-manifest responses, and fix confirmed issues. Start the configured Preview service on port 3000 using the starter's static Vite command, then prepare a clean checkpoint through the project's canonical repository workflow. The work remains a demonstration; do not enable backend services or claim public deployment without a separate authorization.
+After approval, translate the brief into outcome-based project `TODO.md` criteria, then implement the shared design system and the priority visitor journeys before the dashboard modules. Request the planned hero artwork before application coding and reference the exact managed-storage URL returned by the generator; its rendering is an asynchronous dependency. Use host-managed TypeScript diagnostics already registered for this project, run the starter's type check and static production build, inspect route-manifest responses, and fix confirmed issues. Start the configured Preview service on port 3000 using the starter's static Vite command, then prepare a clean checkpoint through the project's canonical repository workflow. The work remains a demonstration; do not enable backend services or claim public deployment without a separate authorization.
